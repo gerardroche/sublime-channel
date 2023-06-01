@@ -1,0 +1,23 @@
+#!/bin/sh
+
+set -e
+unset CDPATH
+unset IFS
+
+cat packages.json | jq >/dev/null
+echo "PASS: JSON should be valid"
+
+packages="$(grep "\"name\":" packages.json)"
+packages_sorted="$(grep "\"name\":" packages.json | sort -u)"
+
+if test "x$packages" != "x$packages_sorted"; then
+    echo >&2 "FAIL: Should be ordered correctly"
+    exit 1
+fi
+echo "PASS: Should be ordered correctly"
+
+if grep -P '\t' packages.json >/dev/null; then
+    echo >&2 "FAIL: Should use spaces"
+    exit 1
+fi
+echo "PASS: Should use spaces"

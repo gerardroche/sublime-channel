@@ -1,0 +1,243 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "name": "ColorSchemeUnit",
+            "details": "https://github.com/gerardroche/sublime-color-scheme-unit",
+            "labels": ["color scheme", "testing"],
+            "previous_names": ["color_scheme_unit"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "GenerateSyntaxTestAssertions",
+            "details": "https://github.com/gerardroche/sublime-generate-syntax-test-assertions",
+            "labels": ["generator", "syntax", "testing"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "GitOpen",
+            "details": "https://github.com/gerardroche/sublime-git-open",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "GotoDefinitionSplit",
+            "details": "https://github.com/gerardroche/sublime-goto-definition-split",
+            "labels": ["file navigation"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "LaravelTestingCompletions",
+            "details": "https://github.com/gerardroche/sublime-laravel-testing-completions",
+            "labels": ["laravel", "completions", "auto-complete"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "molokai",
+            "details": "https://github.com/gerardroche/sublime-molokai",
+            "labels": ["color scheme"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "MonokaiFree",
+            "details": "https://github.com/gerardroche/sublime-monokai-free",
+            "labels": ["monokai", "color scheme"],
+            "releases": [
+                {
+                    "sublime_text": ">=4000",
+                    "tags": true
+                },
+                {
+                    "sublime_text": "<4000",
+                    "tags": "st3-"
+                }
+            ]
+        },
+        {
+            "name": "NeoVintageousColemak",
+            "details": "https://github.com/gerardroche/NeoVintageousColemak",
+            "labels": ["neovintageous", "vim", "vi", "vintage", "vintageous", "neovim", "nvim"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "NeoVintageousFiles",
+            "details": "https://github.com/gerardroche/NeoVintageousFiles",
+            "labels": ["neovintageous", "vim", "vi", "vintage", "vintageous", "neovim", "nvim"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "NeoVintageousHighlightLine",
+            "details": "https://github.com/gerardroche/NeoVintageousHighlightLine",
+            "labels": ["neovintageous", "vim", "vi", "vintage", "vintageous", "neovim", "nvim"],
+            "releases": [
+                {
+                    "sublime_text": ">=4074",
+                    "tags": true
+                }
+           ]
+        },
+        {
+            "name": "NeoVintageousLineNumbers",
+            "details": "https://github.com/gerardroche/NeoVintageousLineNumbers",
+            "labels": ["neovintageous", "vim", "vi", "vintage", "vintageous", "neovim", "nvim"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "PHP Completions Kit",
+            "details": "https://github.com/gerardroche/sublime-phpck",
+            "labels": ["php", "auto-complete", "completions"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "PHPGrammar",
+            "details": "https://github.com/gerardroche/sublime-php-grammar",
+            "labels": ["php", "auto-completion", "completions", "text manipulation", "formatting"],
+            "previous_names": ["php-grammar"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "PHPSnippets",
+            "details": "https://github.com/gerardroche/sublime-php-snippets",
+            "labels": ["php", "snippets"],
+            "previous_names": ["php-snippets"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "PHPUnitKit",
+            "details": "https://github.com/gerardroche/sublime-phpunit",
+            "labels": ["php", "phpunit", "testing", "tdd"],
+            "previous_names": ["phpunitkit"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Pine",
+            "details": "https://github.com/gerardroche/sublime-pine",
+            "labels": ["language syntax"],
+            "releases": [
+                {
+                    "sublime_text": ">=3092",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "RulerColumn",
+            "details": "https://github.com/gerardroche/sublime-ruler-column",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Sesame",
+            "details": "https://github.com/gerardroche/sublime-sesame",
+            "labels": ["open folders", "open projects", "power user", "project", "project management", "window", "workspace"],
+            "previous_names": ["open-sesame"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "ShowAsciiValue",
+            "details": "https://github.com/gerardroche/sublime-show-ascii-value",
+            "labels": ["status bar"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "SublimeTextAPICompletions",
+            "details": "https://github.com/gerardroche/sublime-api-completions",
+            "labels": ["completions"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Test",
+            "details": "https://github.com/gerardroche/sublime-test",
+            "labels": ["testing", "tdd"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        }
+    ]
+}

@@ -3,9 +3,9 @@
     "packages": [
         {
             "name": "ColorSchemeUnit",
+            "previous_names": ["color_scheme_unit"],
             "details": "https://github.com/gerardroche/sublime-color-scheme-unit",
             "labels": ["color scheme", "testing"],
-            "previous_names": ["color_scheme_unit"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -139,9 +139,9 @@
         },
         {
             "name": "PHPGrammar",
+            "previous_names": ["php-grammar"],
             "details": "https://github.com/gerardroche/sublime-php-grammar",
             "labels": ["php", "auto-completion", "completions", "text manipulation", "formatting"],
-            "previous_names": ["php-grammar"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -151,9 +151,9 @@
         },
         {
             "name": "PHPSnippets",
+            "previous_names": ["php-snippets"],
             "details": "https://github.com/gerardroche/sublime-php-snippets",
             "labels": ["php", "snippets"],
-            "previous_names": ["php-snippets"],
             "releases": [
                 {
                     "sublime_text": "*",
@@ -163,9 +163,9 @@
         },
         {
             "name": "PHPUnitKit",
+            "previous_names": ["phpunitkit"],
             "details": "https://github.com/gerardroche/sublime-phpunit",
             "labels": ["php", "phpunit", "testing", "tdd"],
-            "previous_names": ["phpunitkit"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -196,9 +196,9 @@
         },
         {
             "name": "Sesame",
+            "previous_names": ["open-sesame"],
             "details": "https://github.com/gerardroche/sublime-sesame",
             "labels": ["open folders", "open projects", "power user", "project", "project management", "window", "workspace"],
-            "previous_names": ["open-sesame"],
             "releases": [
                 {
                     "sublime_text": ">=3000",

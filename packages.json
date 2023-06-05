@@ -196,17 +196,6 @@
             ]
         },
         {
-            "name": "ShowAsciiValue",
-            "details": "https://github.com/gerardroche/sublime-show-ascii-value",
-            "labels": ["status bar"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "SublimeTextAPICompletions",
             "details": "https://github.com/gerardroche/sublime-api-completions",
             "labels": ["completions"],

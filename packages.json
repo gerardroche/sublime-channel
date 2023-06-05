@@ -83,17 +83,6 @@
             ]
         },
         {
-            "name": "NeoVintageousColemak",
-            "details": "https://github.com/gerardroche/NeoVintageousColemak",
-            "labels": ["neovintageous", "vim", "vi", "vintage", "vintageous", "neovim", "nvim"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
             "name": "NeoVintageousFiles",
             "details": "https://github.com/gerardroche/NeoVintageousFiles",
             "labels": ["neovintageous", "vim", "vi", "vintage", "vintageous", "neovim", "nvim"],

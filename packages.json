@@ -27,6 +27,7 @@
         {
             "name": "GitOpen",
             "details": "https://github.com/gerardroche/sublime-git-open",
+            "labels": ["git"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -85,7 +86,7 @@
         {
             "name": "NeoVintageousFiles",
             "details": "https://github.com/gerardroche/NeoVintageousFiles",
-            "labels": ["neovintageous", "vim", "vi", "vintage", "vintageous", "neovim", "nvim"],
+            "labels": ["vim", "neovintageous", "vintageous", "vintage"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -96,7 +97,7 @@
         {
             "name": "NeoVintageousHighlightLine",
             "details": "https://github.com/gerardroche/NeoVintageousHighlightLine",
-            "labels": ["neovintageous", "vim", "vi", "vintage", "vintageous", "neovim", "nvim"],
+            "labels": ["vim", "neovintageous", "vintageous", "vintage"],
             "releases": [
                 {
                     "sublime_text": ">=4074",
@@ -107,7 +108,7 @@
         {
             "name": "NeoVintageousLineNumbers",
             "details": "https://github.com/gerardroche/NeoVintageousLineNumbers",
-            "labels": ["neovintageous", "vim", "vi", "vintage", "vintageous", "neovim", "nvim"],
+            "labels": ["vim", "neovintageous", "vintageous", "vintage"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -118,7 +119,7 @@
         {
             "name": "PHP Completions Kit",
             "details": "https://github.com/gerardroche/sublime-phpck",
-            "labels": ["php", "auto-complete", "completions"],
+            "labels": ["php", "completions", "auto-complete"],
             "releases": [
                 {
                     "sublime_text": "*",
@@ -130,7 +131,7 @@
             "name": "PHPGrammar",
             "previous_names": ["php-grammar"],
             "details": "https://github.com/gerardroche/sublime-php-grammar",
-            "labels": ["php", "auto-completion", "completions", "text manipulation", "formatting"],
+            "labels": ["php", "completions", "auto-complete", "formatting"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -154,7 +155,7 @@
             "name": "PHPUnitKit",
             "previous_names": ["phpunitkit"],
             "details": "https://github.com/gerardroche/sublime-phpunit",
-            "labels": ["php", "phpunit", "testing", "tdd"],
+            "labels": ["php", "phpunit", "testing"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -187,7 +188,7 @@
             "name": "Sesame",
             "previous_names": ["open-sesame"],
             "details": "https://github.com/gerardroche/sublime-sesame",
-            "labels": ["open folders", "open projects", "power user", "project", "project management", "window", "workspace"],
+            "labels": ["project", "file navigation"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -209,7 +210,7 @@
         {
             "name": "Test",
             "details": "https://github.com/gerardroche/sublime-test",
-            "labels": ["testing", "tdd"],
+            "labels": ["testing"],
             "releases": [
                 {
                     "sublime_text": ">=3000",

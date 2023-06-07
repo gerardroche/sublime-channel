@@ -14,6 +14,16 @@
             ]
         },
         {
+            "name": "CopyRelativeFilePath",
+            "details": "https://github.com/gerardroche/sublime-copy-relative-file-path",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "GenerateSyntaxTestAssertions",
             "details": "https://github.com/gerardroche/sublime-generate-syntax-test-assertions",
             "labels": ["generator", "syntax", "testing"],
@@ -27,6 +37,17 @@
         {
             "name": "GitOpen",
             "details": "https://github.com/gerardroche/sublime-git-open",
+            "labels": ["git"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "GitOpenModified",
+            "details": "https://github.com/gerardroche/sublime-git-open-modified",
             "labels": ["git"],
             "releases": [
                 {
@@ -80,6 +101,28 @@
                 {
                     "sublime_text": "<4000",
                     "tags": "st3-"
+                }
+            ]
+        },
+        {
+            "name": "NeoVintageousColemak",
+            "details": "https://github.com/gerardroche/NeoVintageousColemak",
+            "labels": ["vim", "neovintageous", "vintageous", "vintage"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "NeoVintageousDvorak",
+            "details": "https://github.com/gerardroche/NeoVintageousDvorak",
+            "labels": ["vim", "neovintageous", "vintageous", "vintage"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
                 }
             ]
         },
@@ -175,8 +218,28 @@
             ]
         },
         {
+            "name": "PromptOpenRecentProject",
+            "details": "https://github.com/gerardroche/sublime-prompt-open-recent-project",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "RulerColumn",
             "details": "https://github.com/gerardroche/sublime-ruler-column",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Sensible",
+            "details": "https://github.com/gerardroche/sublime-sensible",
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -197,9 +260,31 @@
             ]
         },
         {
+            "name": "ShowAsciiValue",
+            "details": "https://github.com/gerardroche/sublime-show-ascii-value",
+            "labels": ["status bar"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeTextAPICompletions",
             "details": "https://github.com/gerardroche/sublime-api-completions",
-            "labels": ["completions"],
+            "labels": ["completions", "auto-complete"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "TailwindCSSCompletions",
+            "details": "https://github.com/gerardroche/sublime-tailwind-css-completions",
+            "labels": ["completions", "auto-complete"],
             "releases": [
                 {
                     "sublime_text": ">=3000",
@@ -211,6 +296,17 @@
             "name": "Test",
             "details": "https://github.com/gerardroche/sublime-test",
             "labels": ["testing"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
+            "name": "Tmux",
+            "details": "https://github.com/gerardroche/sublime-tmux",
+            "labels": ["language syntax"],
             "releases": [
                 {
                     "sublime_text": ">=3000",

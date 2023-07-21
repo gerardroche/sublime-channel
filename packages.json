@@ -149,6 +149,17 @@
            ]
         },
         {
+            "name": "NeoVintageousInsertModeKeymaps",
+            "details": "https://github.com/gerardroche/NeoVintageousInsertModeKeymaps",
+            "labels": ["vim", "neovintageous", "vintageous", "vintage"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+           ]
+        },
+        {
             "name": "NeoVintageousLineNumbers",
             "details": "https://github.com/gerardroche/NeoVintageousLineNumbers",
             "labels": ["vim", "neovintageous", "vintageous", "vintage"],

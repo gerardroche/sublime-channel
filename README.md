@@ -6,6 +6,7 @@
 - [GitOpen](https://github.com/gerardroche/sublime-git-open)
 - [GitOpenModified](https://github.com/gerardroche/sublime-git-open-modified)
 - [GotoDefinitionSplit](https://github.com/gerardroche/sublime-goto-definition-split)
+- [Khan](https://github.com/gerardroche/sublime-khan)
 - [LaravelTestingCompletions](https://github.com/gerardroche/sublime-laravel-testing-completions)
 - [molokai](https://github.com/gerardroche/sublime-molokai)
 - [MonokaiFree](https://github.com/gerardroche/sublime-monokai-free)

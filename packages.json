@@ -68,6 +68,17 @@
             ]
         },
         {
+            "name": "Khan",
+            "details": "https://github.com/gerardroche/sublime-khan",
+            "labels": ["utilities"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "LaravelTestingCompletions",
             "details": "https://github.com/gerardroche/sublime-laravel-testing-completions",
             "labels": ["laravel", "completions", "auto-complete"],

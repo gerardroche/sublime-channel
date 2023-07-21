@@ -31,3 +31,4 @@
 - [TailwindCSSCompletions](https://github.com/gerardroche/sublime-tailwind-css-completions)
 - [Test](https://github.com/gerardroche/sublime-test)
 - [Tmux](https://github.com/gerardroche/sublime-tmux)
+- [Toggler](https://github.com/gerardroche/sublime-tmux)

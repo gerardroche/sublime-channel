@@ -346,6 +346,17 @@
                     "tags": true
                 }
             ]
+        },
+        {
+            "name": "Toggler",
+            "details": "https://github.com/gerardroche/sublime-tmux",
+            "labels": ["utilities"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
         }
     ]
 }

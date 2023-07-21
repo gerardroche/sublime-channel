@@ -12,6 +12,10 @@ packages_sorted="$(grep "\"name\":" packages.json | sort -u)"
 
 if test "x$packages" != "x$packages_sorted"; then
     echo >&2 "FAIL: Should be ordered correctly"
+    echo "$packages" > packages.tmp
+    echo "$packages_sorted" > packages_sorted.tmp
+    diff packages.tmp packages_sorted.tmp || true
+    rm -f packages.tmp packages_sorted.tmp
     exit 1
 fi
 echo "PASS: Should be ordered correctly"

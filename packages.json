@@ -195,6 +195,17 @@
             ]
         },
         {
+            "name": "PHPUnitCompletions",
+            "details": "https://github.com/gerardroche/sublime-phpunit-completions",
+            "labels": ["php", "phpunit", "completions"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "PHPUnitKit",
             "previous_names": ["phpunitkit"],
             "details": "https://github.com/gerardroche/sublime-phpunit",
@@ -202,17 +213,6 @@
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "tags": true
-                }
-            ]
-        },
-        {
-            "name": "PHPUnitCompletions",
-            "details": "https://github.com/gerardroche/sublime-phpunit-completions",
-            "labels": ["php", "phpunit", "completions"],
-            "releases": [
-                {
-                    "sublime_text": "*",
                     "tags": true
                 }
             ]

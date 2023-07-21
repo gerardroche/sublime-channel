@@ -2,6 +2,7 @@ import json
 
 
 def get_packages_list() -> str:
+    packages_list = []
     with open('packages.json', 'r', encoding='utf-8') as f:
         file_content = json.load(f)
         for package in file_content['packages']:
@@ -9,9 +10,9 @@ def get_packages_list() -> str:
                 '- [%s](%s)' % (package['name'], package['details'])
             ]
 
-            markdown.append('\n'.join(package_markdown))
+            packages_list.append('\n'.join(package_markdown))
 
-    return '\n'.join(markdown)
+    return '\n'.join(packages_list)
 
 
 markdown = []

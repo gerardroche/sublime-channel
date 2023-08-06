@@ -160,17 +160,6 @@
            ]
         },
         {
-            "name": "NeoVintageousI18n",
-            "details": "https://github.com/gerardroche/NeoVintageousI18n",
-            "labels": ["vim", "neovintageous", "vintageous", "vintage", "i18n"],
-            "releases": [
-                {
-                    "sublime_text": ">=3000",
-                    "tags": true
-                }
-           ]
-        },
-        {
             "name": "NeoVintageousInsertModeKeymaps",
             "details": "https://github.com/gerardroche/NeoVintageousInsertModeKeymaps",
             "labels": ["vim", "neovintageous", "vintageous", "vintage"],

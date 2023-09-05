@@ -16,9 +16,9 @@ def get_packages_list() -> str:
 
 
 markdown = []
-markdown.append('# My Sublime Text Packages\n')
+markdown.append('# Packages\n')
 markdown.append(get_packages_list())
 markdown.append('')
 
-with open('README.md', 'w', encoding='utf-8') as f:
+with open('PACKAGES.md', 'w', encoding='utf-8') as f:
     f.write('\n'.join(markdown))

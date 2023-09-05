@@ -349,7 +349,7 @@
         },
         {
             "name": "Toggler",
-            "details": "https://github.com/gerardroche/sublime-tmux",
+            "details": "https://github.com/gerardroche/sublime-toggler",
             "labels": ["utilities"],
             "releases": [
                 {

@@ -1,17 +1,4 @@
-# My Sublime Text Channel
-
-To add the channel to Sublime Text:
-
-1. Open the Command Palette: `Command Palette → Package Control: Add Channel`.
-2. Add the following as Channel JSON URL.
-
-   ```
-   https://github.com/gerardroche/sublime-channel
-   ```
-
-3. To install a package from the Command Palette: `Command Palette → Package Control: Install Package`.
-
-## Packages
+# Packages
 
 - [ColorSchemeUnit](https://github.com/gerardroche/sublime-color-scheme-unit)
 - [CopyRelativeFilePath](https://github.com/gerardroche/sublime-copy-relative-file-path)

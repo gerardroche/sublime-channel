@@ -35,6 +35,17 @@
             ]
         },
         {
+            "name": "Gitk",
+            "details": "https://github.com/gerardroche/sublime-gitk",
+            "labels": ["git"],
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "GitOpen",
             "details": "https://github.com/gerardroche/sublime-git-open",
             "labels": ["git"],
@@ -147,6 +158,17 @@
                     "tags": true
                 }
             ]
+        },
+        {
+            "name": "NeoVintageousHardMode",
+            "details": "https://github.com/gerardroche/NeoVintageousHardMode",
+            "labels": ["vim", "neovintageous", "vintageous", "vintage"],
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": true
+                }
+           ]
         },
         {
             "name": "NeoVintageousHighlightLine",

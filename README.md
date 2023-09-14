@@ -6,7 +6,7 @@ To add the channel to Sublime Text:
 2. Add the following as Channel JSON URL.
 
    ```
-   https://github.com/gerardroche/sublime-channel
+   https://raw.githubusercontent.com/gerardroche/sublime-channel/master/packages.json
    ```
 
 3. To install a package from the Command Palette: `Command Palette → Package Control: Install Package`.
@@ -16,6 +16,7 @@ To add the channel to Sublime Text:
 - [ColorSchemeUnit](https://github.com/gerardroche/sublime-color-scheme-unit)
 - [CopyRelativeFilePath](https://github.com/gerardroche/sublime-copy-relative-file-path)
 - [GenerateSyntaxTestAssertions](https://github.com/gerardroche/sublime-generate-syntax-test-assertions)
+- [Gitk](https://github.com/gerardroche/sublime-gitk)
 - [GitOpen](https://github.com/gerardroche/sublime-git-open)
 - [GitOpenModified](https://github.com/gerardroche/sublime-git-open-modified)
 - [GotoDefinitionSplit](https://github.com/gerardroche/sublime-goto-definition-split)
@@ -26,6 +27,7 @@ To add the channel to Sublime Text:
 - [NeoVintageousColemak](https://github.com/gerardroche/NeoVintageousColemak)
 - [NeoVintageousDvorak](https://github.com/gerardroche/NeoVintageousDvorak)
 - [NeoVintageousFiles](https://github.com/gerardroche/NeoVintageousFiles)
+- [NeoVintageousHardMode](https://github.com/gerardroche/NeoVintageousHardMode)
 - [NeoVintageousHighlightLine](https://github.com/gerardroche/NeoVintageousHighlightLine)
 - [NeoVintageousInsertModeKeymaps](https://github.com/gerardroche/NeoVintageousInsertModeKeymaps)
 - [NeoVintageousLineNumbers](https://github.com/gerardroche/NeoVintageousLineNumbers)

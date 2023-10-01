@@ -1,8 +1,0 @@
-#!/bin/sh
-
-set -e
-unset CDPATH
-unset IFS
-
-bin/test
-python3 bin/genreadme.py

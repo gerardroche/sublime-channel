@@ -3,6 +3,7 @@
 To add the channel to Sublime Text:
 
 1. Open the Command Palette: `Command Palette → Package Control: Add Channel`.
+
 2. Add the following as Channel JSON URL.
 
    ```
